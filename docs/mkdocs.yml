@@ -1,0 +1,5 @@
+site_name: Tasks service docs
+nav:
+  - Home: index.md
+  - Develop: develop.md
+  - Tasks: tasks.md
